@@ -1,1 +1,13 @@
+    Para construir este estudo no NotebookLM, selecionei fontes abertas e confiáveis que abordam a aplicação da IA em análise de dados e        tomada de decisão empresarial:
 
+   IBM — O que é análise de dados com IA?
+   https://www.ibm.com/br-pt/think/topics/ai-analytics
+
+   Microsoft — AI Data Analytics: Enhance Your Data Analysis  
+   https://www.microsoft.com/en-us/microsoft-copilot/copilot-101/ai-for-data-analysis
+
+   Google Cloud — AI for Data Analytics  
+   https://cloud.google.com/use-cases/ai-data-analytics
+
+   McKinsey & Company — Artificial intelligence in strategy 
+   https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/artificial-intelligence-in-strategy
