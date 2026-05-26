@@ -1,4 +1,5 @@
-    Para construir este estudo no NotebookLM, selecionei fontes abertas e confiáveis que abordam a aplicação da IA em análise de dados e        tomada de decisão empresarial:
+   Para construir este estudo no NotebookLM, 
+   selecionei fontes abertas e confiáveis que abordam a aplicação da IA em análise de dados e tomada de decisão empresarial:
 
    IBM — O que é análise de dados com IA?
    https://www.ibm.com/br-pt/think/topics/ai-analytics
