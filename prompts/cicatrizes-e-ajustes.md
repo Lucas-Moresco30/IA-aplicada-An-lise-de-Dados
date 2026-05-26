@@ -1,1 +1,36 @@
+Cicatrizes
+
+Durante a construção do caderno temático, usei diferentes tipos de prompts no NotebookLM para comparar a qualidade das respostas. O aprendizado mais importante foi perceber que perguntas genéricas produzem respostas corretas, mas superficiais. Já prompts com contexto, objetivo e formato esperado geram respostas mais úteis para estudo e documentação.
+
+Prompt 1 — Exploração inicial
+
+Prompt usado: Explique como a inteligência artificial pode ser usada na análise de dados.
+
+Cicatriz: Percebi que, sem delimitar o contexto empresarial, a IA tende a responder de forma ampla demais, sem aprofundar o valor prático para organizações.
+
+Prompt 2 — Foco em aplicação empresarial
+
+Prompt usado: Explique como a IA pode ajudar empresas na análise de dados, especialmente na identificação de padrões, automação de processos e geração de insights estratégicos.
+
+Cicatriz: Mesmo com foco maior, ainda faltavam exemplos de tarefas que podem ser automatizadas no fluxo analítico.
+
+Prompt 3 — Estrutura orientada a estudo
+
+Prompt usado: Com base nas fontes, explique o uso da IA na análise de dados em empresas e organize a resposta em: definição, benefícios, exemplos práticos, riscos e conclusão.
+
+Cicatriz: Ficou claro que pedir estrutura de saída melhora bastante a qualidade da resposta e reduz retrabalho.
+
+Prompt 4 — Aprofundamento em automação
+
+Prompt usado: Quais etapas da análise de dados podem ser automatizadas com IA e quais ainda exigem supervisão humana?
+
+Cicatriz: A principal dificuldade foi perceber que “automatizar” não significa “substituir totalmente o analista”. A IA acelera e amplia o trabalho humano, mas não elimina a necessidade de supervisão.
+
+Prompt 5 — Aprofundamento em riscos e limites
+
+Prompt usado:
+Quais riscos as empresas devem considerar ao usar IA na análise de dados?
+
+Cicatriz:
+Sem essa etapa, o projeto corria o risco de ficar otimista demais e pouco crítico.
 
