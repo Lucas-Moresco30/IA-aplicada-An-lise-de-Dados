@@ -2,6 +2,7 @@ Cicatrizes
 
 Durante a construção do caderno temático, usei diferentes tipos de prompts no NotebookLM para comparar a qualidade das respostas. O aprendizado mais importante foi perceber que perguntas genéricas produzem respostas corretas, mas superficiais. Já prompts com contexto, objetivo e formato esperado geram respostas mais úteis para estudo e documentação.
 
+
 Prompt 1 — Exploração inicial
 
 Prompt usado: Explique como a inteligência artificial pode ser usada na análise de dados.
@@ -19,6 +20,7 @@ Por que melhora esse prompt:
   •	informa o público
   •	exige estrutura
 Isso segue a recomendação de dar objetivos claros, contexto e formato de saída. 
+
 
 Prompt 2 — Foco em aplicação empresarial
 
@@ -84,6 +86,7 @@ A tabela deixa a resposta muito mais reaproveitável para:
   •	apresentação
   •	estudo rápido
 Pedir estrutura explícita tende a melhorar a qualidade e a utilidade do resultado. 
+
 
 Prompt 5 — Aprofundamento em riscos e limites
 
