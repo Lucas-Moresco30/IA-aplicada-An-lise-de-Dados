@@ -106,11 +106,12 @@ Para cada risco, explique:
   3. uma forma de mitigação.
      
 Inclua pelo menos estes temas: viés, privacidade, transparência, confiabilidade e governança.
-Por que melhora:
+Por que melhora?
 Agora o resultado tende a sair:
-  •	mais completo;
-  •	mais estratégico;
-  •	mais útil para portfólio;
+  •	mais completo
+  •	mais estratégico
+  •	mais útil para portfólio
+  
 Esse cuidado faz sentido porque organizações precisam considerar segurança, viés, transparência e supervisão ao adotar IA analítica.  
 
 
